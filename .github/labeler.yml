@@ -1,0 +1,5 @@
+walkthrough:
+- walkthrough/**/*
+
+search:
+- search/**/*
