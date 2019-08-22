@@ -1,5 +1,10 @@
-walkthrough:
-- walkthrough/**/*
-
-search:
-- search/**/*
+web:
+- web/**/*
+api:
+- api/**/*
+batch:
+- batch/**/*
+infrastructure:
+- infrastructure/**/*
+cli:
+- cli/**/*
